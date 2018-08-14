@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/active-mq/active-mq.iml" filepath="$PROJECT_DIR$/active-mq/active-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/active-mq2/active-mq2.iml" filepath="$PROJECT_DIR$/active-mq2/active-mq2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic-datasource/dynamic-datasource.iml" filepath="$PROJECT_DIR$/dynamic-datasource/dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-mq/kafka-mq.iml" filepath="$PROJECT_DIR$/kafka-mq/kafka-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-mq2/kafka-mq2.iml" filepath="$PROJECT_DIR$/kafka-mq2/kafka-mq2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-mq/rabbit-mq.iml" filepath="$PROJECT_DIR$/rabbit-mq/rabbit-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit-mq2/rabbit-mq2.iml" filepath="$PROJECT_DIR$/rabbit-mq2/rabbit-mq2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocket-mq/rocket-mq.iml" filepath="$PROJECT_DIR$/rocket-mq/rocket-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocket-mq2/rocket-mq2.iml" filepath="$PROJECT_DIR$/rocket-mq2/rocket-mq2.iml" />
+    </modules>
+  </component>
+</project>

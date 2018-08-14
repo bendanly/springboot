@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="active-mq" />
+        <module name="active-mq2" />
+        <module name="dynamic-datasource" />
+        <module name="kafka-mq" />
+        <module name="kafka-mq2" />
+        <module name="rabbit-mq" />
+        <module name="rabbit-mq2" />
+        <module name="rocket-mq" />
+        <module name="rocket-mq2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="active-mq" target="1.8" />
+      <module name="active-mq2" target="1.8" />
+      <module name="dynamic-datasource" target="1.8" />
+      <module name="kafka-mq" target="1.8" />
+      <module name="kafka-mq2" target="1.8" />
+      <module name="rabbit-mq" target="1.8" />
+      <module name="rabbit-mq2" target="1.8" />
+      <module name="rocket-mq" target="1.8" />
+      <module name="rocket-mq2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
